@@ -16,7 +16,7 @@ All coding projects are built from the ~~*waist*~~ ground up. From the planning 
 
 - 🌱 I'm currently learning Figma and three.js  
 - 🤝🏾 I'm looking to collaborate on that "next big thing"  
-- 👨🏾‍💻 Check out my portfolio! [justinpeter.dev](https://github.com/justinkpeter/justinkpeter/blob/main/justinpeter.dev)    
+- 👨🏾‍💻 Check out my portfolio! [justinpeter.dev](justinpeter.dev)    
 - ⚡️ Fun fact: Chicken & Waffles are my kryptonite.
 
 ![](https://github-readme-stats.vercel.app/api?username=justinkpeter&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)<br/>
