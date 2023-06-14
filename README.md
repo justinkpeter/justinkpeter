@@ -19,6 +19,6 @@ All coding projects are built from the ~~*waist*~~ ground up. From the planning 
 - 👨🏾‍💻 Check out my portfolio! [justinpeter.dev](https://justinpeter.dev/)    
 - ⚡️ Fun fact: Chicken & Waffles are my kryptonite.
 
-![](https://github-readme-stats.vercel.app/api?username=justinkpeter&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=justinkpeter&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinkpeter&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
