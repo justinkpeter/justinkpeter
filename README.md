@@ -1,7 +1,7 @@
 # Justin Peter
-**`Digital Craftsman (Developer/Designer/Creator)`**
+**`Developer/Designer/Creator`**
 
-I'm a full-stack developer who loves creating experiences, one line of code at a time. Most of my background and experience comprises of Full-Stack work, but my heart and soul lies on the *~~back~~* front-end.
+I'm a full-stack developer who loves creating experiences, one line of code at a time. Most of my background and experience comprises of Full-Stack work, but my heart and soul lies on the front-end.
 
 All coding projects are built from the ~~*waist*~~ ground up. From the planning and designing, all the way to solving real-life problems, I take pride in working a good challenge.
 
@@ -14,11 +14,6 @@ All coding projects are built from the ~~*waist*~~ ground up. From the planning 
 ## 🧐 **What I'm up to**
 *My current shenanigans*
 
-- 🌱 I'm currently learning Figma and Next.js  
 - 🎧 Building out a project built of the Spotify API 
 - 👨🏾‍💻 Check out my portfolio! [justinpeter.dev](https://justinpeter.dev/)    
 - ⚡️ Fun fact: Chicken & Waffles are my kryptonite.
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=justinkpeter&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinkpeter&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
